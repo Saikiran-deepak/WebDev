@@ -1,0 +1,19 @@
+body {
+    background-color: #eaf6f6;
+    background-image: url("HTML\Personal Site\Image\naruto-shippuuden-uchiha-itachi-sharingan-anime-wallpaper-preview.jpg")
+}
+
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: brown;
+    border-width: 2px;
+    /* applicable for all 4 sides */
+    width: 10%;
+}
+
+/*<!--Changing border to dotted and width only covers 30% or row-->*/
+h3,h1 {
+    color: #66bfbf;
+}
