@@ -1,0 +1,22 @@
+body {
+    background-color: aquamarine;
+    margin: 0px;
+    /* it will remove default margin for div to 0px*/
+
+}
+
+h1 {
+    margin-top: 0px;
+    /* it will remove default margin for heading top to 0px*/
+}
+
+p {
+    margin: 0px;
+}
+
+.demo {
+    background-color: rgba(18, 233, 36, 0.979);
+    border-radius: 0px;
+    padding: 0px;
+
+}

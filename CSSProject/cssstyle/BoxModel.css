@@ -1,0 +1,29 @@
+.demo {
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    /*   border-radius: 10px; it will make curved*/
+    border: solid 10px;
+    background-color: rgba(18, 233, 36, 0.979);
+    /* border-radius: 0px;
+    padding: 0px;*/
+
+}
+
+.B1 {
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    border: solid 20px;
+    margin-left: 260px;
+    background-color: red;
+}
+
+.B2 {
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    border: solid 10px;
+    margin-left: 540px;
+    background-color: blue;
+}
