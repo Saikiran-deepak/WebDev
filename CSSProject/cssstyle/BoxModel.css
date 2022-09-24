@@ -1,12 +1,12 @@
-.demo {
+/**.demo {
     height: 200px;
     width: 200px;
     padding: 20px;
-    /*   border-radius: 10px; it will make curved*/
+    /*   border-radius: 10px; it will make curved
     border: solid 10px;
     background-color: rgba(18, 233, 36, 0.979);
     /* border-radius: 0px;
-    padding: 0px;*/
+    padding: 0px;
 
 }
 
@@ -26,4 +26,70 @@
     border: solid 10px;
     margin-left: 540px;
     background-color: blue;
+}**/
+
+/* Relative postioning */
+/*
+.demo{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    border-radius: solid;
+    background-color: rgb(114, 23, 199);
+
+}
+.B1{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    background-color: red;
+    left: 250px;
+    padding: 20px;
+    bottom: 240px;
+}
+.B2{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    background-color: rgb(72, 184, 8);
+    left: 500px;
+    bottom: 480px;
+    padding: 20px;
+}
+*/
+
+/* Absolute positioning */
+
+Body {
+    margin: 0;
+    /* It removes default margin created by body/div tag*/
+}
+
+.B0 {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(114, 23, 199);
+
+}
+
+.B1 {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    background-color: red;
+    left: 200px;
+    top: 200px;
+
+
+}
+
+.B2 {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    background-color: rgb(72, 184, 8);
+    left: 400px;
+    top: 400px;
 }
