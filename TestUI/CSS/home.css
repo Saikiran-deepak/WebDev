@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+/* login or signup */
+.login-signup{
+    padding: 10px;
+}
+.nav_home{
+   /* padding-left: 30px;
+   padding-right: 30px; */
+   padding: 0% 10%;
+    
+}

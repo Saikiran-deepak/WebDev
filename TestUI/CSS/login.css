@@ -1,0 +1,38 @@
+body {
+    background-color: aqua;
+}
+.login_form{
+ align-items: center;
+}
+.Login_page{
+
+    background-color: aliceblue;
+    text-align: center;
+    margin: 25% 25%  0px 25% ;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.user_a{
+    width: 70%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.Submit_Button{
+    width: 76%;
+    margin-top: 5px;
+    padding: 10px;
+    background-color: rgb(104, 165, 223);
+
+}
+.saveuser{
+    margin-top: 10px;
+    margin-left: 2px;
+}
+.forgot_Password{
+    margin-top: 10px;
+    margin-left: 2px;
+}
